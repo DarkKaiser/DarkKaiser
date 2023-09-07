@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 [![Github Badge](https://img.shields.io/badge/-DarkKaiser-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DarkKaiser/)](https://www.github.com/DarkKaiser/) 
+[![Gmail Badge](https://img.shields.io/badge/-darkkaiser@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:darkkaiser@gmail.com)](mailto:darkkaiser@gmail.com) 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](http://www.darkkaiser.com/)
 
 <!--
 **DarkKaiser/DarkKaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
