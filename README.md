@@ -4,7 +4,7 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-DarkKaiser-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DarkKaiser/)](https://www.github.com/DarkKaiser/) 
 [![Gmail Badge](https://img.shields.io/badge/-darkkaiser@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:darkkaiser@gmail.com)](mailto:darkkaiser@gmail.com) 
-[![TechBlog Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](http://www.darkkaiser.com/)
+[![TechBlog Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logo=GitHub%20Sponsors&logoColor=white)](http://www.darkkaiser.com/)
 
 
 # Hi there 👋
