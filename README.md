@@ -1,19 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DarkKaiser&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+<a href="https://hits.seeyoufarm.com">
+  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkKaiser%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+</a>
 
-<div align="left">
-  
----
-
-</div>
+[![GitHub Badge](https://img.shields.io/badge/-DarkKaiser-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DarkKaiser/)](https://www.github.com/DarkKaiser/) 
+[![Gmail Badge](https://img.shields.io/badge/-darkkaiser@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:darkkaiser@gmail.com)](mailto:darkkaiser@gmail.com) 
+[![TechBlog Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](http://www.darkkaiser.com/)
 
 
 # Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-DarkKaiser-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DarkKaiser/)](https://www.github.com/DarkKaiser/) 
-[![Gmail Badge](https://img.shields.io/badge/-darkkaiser@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:darkkaiser@gmail.com)](mailto:darkkaiser@gmail.com) 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](http://www.darkkaiser.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkKaiser%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br />
+<hr />
+<br />
 
+<p align="center">
+  <a href="https://github.com/DarkKaiser">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKaiser&theme=dracula&border=7F3FBF&background=0D1117" alt="DarkKaiser's GitHub streak"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DarkKaiser">
