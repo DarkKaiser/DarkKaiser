@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/DarkKaiser">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKaiser&theme=dracula&border=7F3FBF&background=0D1117" alt="DarkKaiser's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKaiser&theme=dracula&border=7F3FBF&background=0D1117" alt="DarkKaiser's GitHub streak" height="180px"/>
   </a>
 </p>
 
