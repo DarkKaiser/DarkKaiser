@@ -5,28 +5,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-DarkKaiser-grey?style=flat&logo=github&logoColor=white&link=https://github.com/DarkKaiser/)](https://www.github.com/DarkKaiser/) 
 [![Gmail Badge](https://img.shields.io/badge/-darkkaiser@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:darkkaiser@gmail.com)](mailto:darkkaiser@gmail.com) 
 [![TechBlog Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logo=GitHub%20Sponsors&logoColor=white)](http://www.darkkaiser.com/)
-
-<br />
-<hr />
-<br />
-
-<p align="center">
-  <a href="https://github.com/DarkKaiser">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKaiser&theme=dracula&border=7F3FBF&background=0D1117" alt="DarkKaiser's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DarkKaiser">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkKaiser&theme=dracula" alt="DarkKaiser's GitHub Contribution"/>
-  </a>
-</p>
-
-<p align="right">
-  <a href="https://github.com/DarkKaiser"><img alt="DarkKaiser's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarkKaiser&count_private=true&theme=dracula&hide_rank=false&rank_icon=github" height="192px" width="49.5%"/>
-  <a href="https://github.com/DarkKaiser"><img alt="DarkKaiser's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkKaiser&langs_count=8&layout=compact&theme=dracula" height="192px" width="49.5%"/>
-</p>
-
     
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -43,4 +21,27 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+</p>
+
+<hr />
+
+<p align="center">
+  <a href="https://github.com/DarkKaiser">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkKaiser&theme=dracula&border=7F3FBF&background=0D1117" alt="DarkKaiser's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DarkKaiser">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkKaiser&theme=dracula" alt="DarkKaiser's GitHub Contribution" height="215px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DarkKaiser">
+    <img alt="DarkKaiser's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DarkKaiser&count_private=true&theme=dracula&hide_rank=false&rank_icon=github" height="192px" />
+  </a>
+  <a href="https://github.com/DarkKaiser">
+    <img alt="DarkKaiser's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkKaiser&langs_count=8&layout=compact&theme=dracula" height="192px" />
+  </a>
 </p>
